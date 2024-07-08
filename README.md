@@ -24,12 +24,6 @@
 ## 📊 GitHub Stats
 ![curiousbud's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousbud&show_icons=true&theme=radical)
 
-## 🔔 Latest GitHub Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/curiousbud/example-repo/pull/2) in [example-repo](https://github.com/curiousbud/example-repo)
-2. 🎉 Merged PR [#1](https://github.com/curiousbud/example-repo/pull/1) in [example-repo](https://github.com/curiousbud/example-repo)
-<!--END_SECTION:activity-->
-
 ## 📫 Connect with Me
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow on LinkedIn" title="Follow on LinkedIn"/>](https://www.linkedin.com/in/areeb-khan-8506a424b/)
 &nbsp;&nbsp;
