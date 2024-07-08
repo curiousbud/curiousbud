@@ -3,19 +3,17 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=curiousbud.curiousbud&color=00cf00)
 
 ## 👨‍💻 About Me
-- 🖥️ Software developer with a passion for creating intuitive web applications.
-- 🌱 Currently learning advanced JavaScript and modern web frameworks.
-- 👯 Looking to collaborate on open source projects.
-- 💬 Ask me about web development and UI/UX design.
-- 📫 How to reach me: [akareeb662@gmail.com](mailto:akareeb662@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and frameworks.
+- Passionate about cybersecurity and willing to learn ethical hacking.
+- Currently learning advanced Python for automation and cybersecurity.
+- 👯 Seeking to collaborate on open source projects.
+- 🖥️ I can do basic web development.
+- Contact me at [akareeb662@gmail.com] (mailto:akareeb662@gmail.com).
+- ⚡ Fun fact: I enjoy discovering new technologies and frameworks.
 
 ## 🛠 Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks and Libraries:** React, Node.js
-- **Tools:** Git, GitHub, VSCode
-- **Others:** Responsive Design, RESTful APIs
+- **Languages:** HTML, CSS, JavaScript, Python , C, C++
+- **Tools:** Git, GitHub, VSCode, linux
+- **Others:** Responsive Design
 
 ## 📂 Projects
 - [**LoginPage**](https://github.com/curiousbud/LoginPage): A basic login page front end made with HTML and CSS.
