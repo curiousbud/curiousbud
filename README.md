@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I enjoy discovering new technologies and frameworks.
 
 ## 🛠 Skills
-- **Languages:** HTML, CSS, JavaScript, Python , C, C++
+- **Languages:** HTML, CSS, JavaScript, Python , C , C++ , Django
 - **Tools:** Git, GitHub, VSCode, linux
-- **Others:** Responsive Design
+- **Others:** Responsive Design, Ethical Hacking
 
 ## 📂 Projects
 - [**LoginPage**](https://github.com/curiousbud/LoginPage): A basic login page front end made with HTML and CSS.
