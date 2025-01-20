@@ -5,9 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ## 👨‍💻 About Me
 - Passionate about cybersecurity and willing to learn ethical hacking.
-- Currently learning advanced Python for automation and cybersecurity.
+- Currently learning Full Stack Web development.
 - 👯 Seeking to collaborate on open source projects.
-- 🖥️ I can do basic web development.
 - Contact me at [akareeb662@gmail.com] (mailto:akareeb662@gmail.com).
 - ⚡ Fun fact: I enjoy discovering new technologies and frameworks.
 
