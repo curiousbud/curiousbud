@@ -2,7 +2,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=curiousbud.curiousbud&color=00cf00)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ## 👨‍💻 About Me
 - Passionate about cybersecurity and willing to learn ethical hacking.
 - Currently learning Full Stack Web development.
