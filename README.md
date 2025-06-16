@@ -14,10 +14,10 @@
 - **Others:** Responsive Design, Ethical Hacking
 
 ## 📂 Projects
-- [**LoginPage**](https://github.com/curiousbud/LoginPage): A basic login page front end made with HTML and CSS.
-- [**Blog-Webpage-Template**](https://github.com/curiousbud/Blog-Webpage-Template): A blog webpage template created with HTML, CSS, and JavaScript.
-- [**Portfolio**](https://github.com/curiousbud/Portfolio): A personal portfolio website designed to showcase my projects and skills.
+- [**Pharmore**](https://github.com/curiousbud/Pharmore): A pharmacy inventory management system made in Django
 - [**Tic-Tac-Toe-game**](https://github.com/curiousbud/Tic-Tac-Toe-game-with-HTML-CSS-and-JavaScript): A classic Tic-Tac-Toe game implemented using HTML, CSS, and JavaScript.
+- [**LoginPage**](https://github.com/curiousbud/LoginPage): A basic login page front end made with HTML and CSS.
+- [**D-Portfolio**](https://github.com/curiousbud/D-Portfolio): A portfolio made using gitprofile which is an opensource initiative by [arifszn](https://github.com/arifszn)
 
 ## 📊 GitHub Stats
 ![curiousbud's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousbud&show_icons=true&theme=radical)
