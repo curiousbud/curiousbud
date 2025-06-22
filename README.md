@@ -1,11 +1,11 @@
-# [Hey, I'm Areeb! (curiousbud)](https://github.com/curiousbud)
+# [Hey, I'm curiousbud!](https://github.com/curiousbud)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 ## 👨‍💻 About Me
 - Passionate about cybersecurity and willing to learn ethical hacking.
 - Currently learning Full Stack Web development.
 - 👯 Seeking to collaborate on open source projects.
-- Contact me at [akareeb662@gmail.com] (mailto:akareeb662@gmail.com).
+- Contact me at [Gmail](mailto:akareeb662@gmail.com).
 - ⚡ Fun fact: I enjoy discovering new technologies and frameworks.
 
 ## 🛠 Skills
