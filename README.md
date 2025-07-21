@@ -3,9 +3,9 @@
 ## 👨‍💻 About Me
 - Passionate about cybersecurity and willing to learn ethical hacking.
 - Currently learning Full Stack Web development.
-- 👯 Seeking to collaborate on open source projects.
+- Seeking to collaborate on open source projects.
 - Contact me at [Gmail](mailto:akareeb662@gmail.com).
-- ⚡ Fun fact: I enjoy discovering new technologies and frameworks.
+- Fun fact: I enjoy discovering new technologies and frameworks.
 
 ### 🧰 Languages and Tools
 
