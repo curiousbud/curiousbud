@@ -1,7 +1,7 @@
 # [Hey, I'm curiousbud!](https://github.com/curiousbud)
 
 ## 👨‍💻 About Me
-- Passionate about cybersecurity and willing to learn ethical hacking.
+- Interested in cybersecurity and willing to learn ethical hacking.
 - Currently learning Full Stack Web development.
 - Seeking to collaborate on open source projects.
 - Contact me at [Gmail](mailto:akareeb662@gmail.com).
