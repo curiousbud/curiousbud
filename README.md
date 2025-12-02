@@ -33,8 +33,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![Curiousbud's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiousbud&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=neon)
+![Curiousbud's GitHub stats](https://github-readme-stats-sigma-mauve-20.vercel.app/api?username=curiousbud&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=neon)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=curiousbud&theme=dark)](https://git.io/streak-stats)
 
