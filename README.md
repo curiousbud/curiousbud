@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 [![Curiousbud's GitHub stats](https://github-readme-stats-sigma-mauve-20.vercel.app/api?username=curiousbud&show_icons=true&theme=dark)](https://github-readme-stats-sigma-mauve-20.vercel.app/api?username=curiousbud&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=curiousbud&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=curiousbud&theme=dark)](https://streak-stats.demolab.com/?user=curiousbud&theme=dark)
 [![Top Langs](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&theme=dark&hide_progress=true)](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
