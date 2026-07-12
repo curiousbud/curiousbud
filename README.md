@@ -1,5 +1,7 @@
 # [Hey, I'm curiousbud!](https://github.com/curiousbud)
 
+<img width="9171" height="2713" alt="Github-Readme-Banner" src="https://github.com/user-attachments/assets/9c84f390-4338-4d2d-ade2-812f42718392" />
+
 ## 👨‍💻 About Me
 - Interested in cybersecurity and willing to learn ethical hacking.
 - Currently learning Full Stack Web development.
