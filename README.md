@@ -32,12 +32,13 @@
 - [**Nerva**](https://github.com/curiousbud/Nerva): A collection of useful scripts in multiple languages.
 - [**D-Portfolio**](https://github.com/curiousbud/D-Portfolio): A portfolio made using gitprofile which is an opensource initiative by [arifszn](https://github.com/arifszn) -->
 
+<!--
 [![trophy](https://github-profile-trophy-five-phi.vercel.app/?username=ryo-ma&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 [![Curiousbud's GitHub stats](https://github-readme-stats-sigma-mauve-20.vercel.app/api?username=curiousbud&show_icons=true&theme=dark)](https://github-readme-stats-sigma-mauve-20.vercel.app/api?username=curiousbud&show_icons=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats-one-rust.vercel.app?user=curiousbud&theme=gotham)](https://github-readme-streak-stats-one-rust.vercel.app?user=curiousbud&theme=gotham)
-[![Top Langs](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&theme=dark&hide_progress=true)](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&theme=dark&hide_progress=true)](https://github-readme-stats-sigma-mauve-20.vercel.app/api/top-langs/?username=curiousbud&show_icons=true&theme=dark) -->
 
 ## 📫 Connect with Me
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow on LinkedIn" title="Follow on LinkedIn"/>](https://www.linkedin.com/in/areeb-khan-8506a424b/)
